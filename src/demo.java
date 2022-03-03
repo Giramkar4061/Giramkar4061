@@ -1,8 +1,12 @@
 
 public class demo {
 	public static void main(String[] args) {
-		System.out.println("hi from ecipse"); 
+		
+		int a=20,b=20;
+		int c=a+b;
+		System.out.println(c);
 		//rajesh
+
 	}
 
 }
